@@ -271,6 +271,14 @@ section{
     position: relative;
 }
 
+.name{
+    color: #76ABAE;
+}
+
+.text-container{
+    text-align: justify;
+}
+
 .about-containers{
     gap: 2rem;
     margin-bottom: 2rem;
@@ -362,6 +370,8 @@ article p{
     color: #EEEEEE;
 }
 
+
+
 /* PROJECTS */
 
 #projects{
@@ -411,6 +421,8 @@ article p{
     margin: 1rem;
     color: #EEEEEE;
 }
+
+
 
 /* CONTACT PAGE */
 
