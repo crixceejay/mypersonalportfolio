@@ -400,6 +400,13 @@ article p{
 }
 
 
+
+.about-containers{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
 /* CERTIFICATES */
 
 #certificates{
